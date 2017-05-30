@@ -1,0 +1,20 @@
+{
+  "name": "js_mentoring_kyiv_2016",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.epam.com/Viacheslav_Valitskas/js_mentoring_kyiv_2016.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
